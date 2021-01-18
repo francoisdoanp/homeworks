@@ -27,6 +27,8 @@ Two components:
 **6 [predictive maintenance](https://github.com/francoisdoanp/MLTBP)**  
 Machine Learning final team project. The objective was to predict a machine's failure time. Based on sensors at various time intervals.   
                  
-**7 [Implementing classification trees & random forests](https://github.com/francoisdoanp/projects/blob/master/Projet_algo_FINAL_VERSION_PAUL-checkpoint.ipynb**
+**7 [Implementing classification trees & random forests](https://github.com/francoisdoanp/projects/blob/master/Projet_algo_FINAL_VERSION_PAUL-checkpoint.ipynb)**
 The goal of this project was to implement the decision tree algorithm (only for classification). The project was extended to incldue random forests & parallelization.
 
+**8 [Social network prediction challenge](https://github.com/francoisdoanp/projects/blob/master/IFT6758DataScience_Four_Geese.ipynb)**
+The goal of this team project was to predict the number of likes based on features scraped from social networks. My part was to work on user location, color features and the model.
